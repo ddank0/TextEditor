@@ -1,0 +1,15 @@
+/mnt/c/dev/c#/TextEditor/bin/Debug/net7.0/TextEditor
+/mnt/c/dev/c#/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/mnt/c/dev/c#/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/mnt/c/dev/c#/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/mnt/c/dev/c#/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/mnt/c/dev/c#/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
